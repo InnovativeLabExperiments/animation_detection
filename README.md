@@ -1,2 +1,2 @@
 # animation_detection
-Image Animation Detection
+Image Animation Detection.
